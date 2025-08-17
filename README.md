@@ -5,6 +5,14 @@ This project showcases **Bike Sales Data Analysis** using Microsoft Excel.
 It covers the full data journey — from **raw dataset cleaning** to creating a **professional dashboard** for insights.  
 
 ---
+## 📊 Dashboard Preview
+Add your screenshots here 👇  
+
+### Main Dashboard
+![Main Dashboard](Dashborad.png)
+
+
+---
 
 ## 📂 File Structure  
 
