@@ -6,8 +6,7 @@ It covers the full data journey — from **raw dataset cleaning** to creating a 
 
 ---
 ## 📊 Dashboard Preview
-Add your screenshots here 👇  
-
+    
 ### Main Dashboard
 ![Main Dashboard](Dashborad.png)
 
