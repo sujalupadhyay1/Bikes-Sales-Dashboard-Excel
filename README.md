@@ -56,11 +56,9 @@ It covers the full data journey — from **raw dataset cleaning** to creating a 
   - Pivot Tables  
   - Interactive Dashboard with Slicers & Charts  
 
-## 📊 Dashboard Preview
-Add your screenshots here 👇  
 
-### Main Dashboard
-![Main Dashboard](Dashborad.png)
+
+
 
 
 
